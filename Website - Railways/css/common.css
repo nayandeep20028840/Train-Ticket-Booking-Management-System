@@ -1,0 +1,32 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.h-font {
+    font-family: 'Merienda', cursive;
+}
+
+/* used to remove arrow in number type form */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.custom-bg {
+    background-color: #279e8c;
+    /* border: 1px solid ; */
+    border: 1px solid #279e8c;
+}
+
+.custom-bg:hover {
+    background-color: #279e8c;
+    border: 1px solid #279e8c;
+    }
+/* } */
