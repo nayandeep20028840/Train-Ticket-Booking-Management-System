@@ -43,46 +43,21 @@
 # Train Available
 ![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/d396abaf-7379-4a63-9bdf-5c36d7bfc9ad)
 
+# Enter Passenger Details
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/4d5bca5b-a970-4867-bb3c-d56dd31524b3)
 
+# Database -> phpMyAdmin
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/82b9b855-3662-4892-b0ac-0b06285cbc3c)
 
+# Result -> Confirmation Email
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/a3ca5a2e-5c0a-49c8-ad41-fc767e1fe8f2)
 
+## Conclusion
 
-## Features of the app:
-
-• GPIO Management.<br/>
-• CPU, Ram, Storage, Network monitoring.<br/>
-• Support for DHT11/22 sensors (Humidity and temperature).<br/>
-• Support for DS18B20 sensors (Temperature).<br/>
-• Support for BMP sensors (Pressure, temperature, altitude).<br/>
-
-
-# ThingSpeak
-
-• ThingSpeak is an IoT analytics platform service that allows you to aggregate , visualize and analyze live data streams in the cloud. You can send data to ThingSpeak from your devices , create instant visualization of live data , and send alerts. ThingSpeak enables engineers and scientists to prototype and build IoT systems without setting up servers or developing web software . It is an open data platform for the internet of things . Your device or application can communicate with ThingSpeak using a RESTful API , and you can either keep your data private or make it public.<br/>
-
-<img width="300" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/b8a9d4c0-4a9f-44d2-a045-efffa3d7db0c.PNG"><br/>
-
-
-# About Project
-
-## Strenghts
-
-• Data from the sensors can be sent to the web page or app which can be accessed from anywhere in the world.<br/>
-• The system is cost-effective and affordable. So that everyone can use it freely.<br/>
-• High accuracy, Easy to use.<br/>
-
-## Applications
-
-• Digital temperature monitoring in laboratories.<br/>
-• Temperature monitoring in greenhouses.<br/>
-• Environment monitoring of warehouses for food safety.<br/>
-• Equipment monitoring in factories.<br/>
-
-## Future scope of our Project
-
-• The IOT Based weather Informative System is proposed to Real time Applications. It doesn’t need of any data centers physically because of we are creating a data Server in Cloud so that it doesn’t require any datacenter further. So It Reduces the Cost of Equipment. Many of the Innovative Researchers are interested towards The IOT based Real time Applications. So this System will helps to the Researcher for their further investigation of weather details.<br/>
-• The IOT Based Weather Informative System not only displays the weather parameters like Temperature, Altitude, Humidity and Pressure etc., but it also displays the weather location, Industry, Time and other weather information from this we can forecasts the weather details.<br/>
-
+• In our project Train reservation system we have stored all the information about the Trains scheduled and the users booking tickets and seats etc.<br/>
+• This database is helpful for the applications which facilitate passengers to book the train tickets and check the details of trains.<br/>
+• We had considered the most important requirements only, many more features and details can be added to our project inorder to obtain even more user friendly applications.<br/>
+• These applications are already in progress and in future they can be upgraded and may become part of amazing technology.<br/>
 
 
 
