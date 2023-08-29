@@ -21,7 +21,8 @@
 • We transformed the E-R diagram into a relational database model based on the analytical phase, a user interface was also designed during this phase.<br/>
 • We turned the proposed system's design into computer software, using front-end development like HTML , CSS, JAVASCRIPT , BOOTSTRAP and MySQL for SQL databases (back end), and PHP through VSCODE IDE.<br/>
 
-## Sensors
+## Sequence Diagram
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/cfd58d6b-478f-4736-95b4-26a8e4417080)
 
 <img width="300" alt="sensors" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/fef8d35e-0228-4e4d-b01a-ecbff321f9c9.PNG">
 <img width="300" alt="sensors" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/33a28de1-c5c7-4eee-b5f1-547dfa3cce92.PNG">
