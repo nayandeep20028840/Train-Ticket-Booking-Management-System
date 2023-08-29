@@ -24,19 +24,28 @@
 ## Sequence Diagram
 ![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/cfd58d6b-478f-4736-95b4-26a8e4417080)
 
-<img width="300" alt="sensors" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/fef8d35e-0228-4e4d-b01a-ecbff321f9c9.PNG">
-<img width="300" alt="sensors" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/33a28de1-c5c7-4eee-b5f1-547dfa3cce92.PNG">
+# List of entities and attributes
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/6463982d-53d1-477e-831c-42d1da31d429)
+
+# ER Model
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/851c4d27-8fcd-49ee-9777-b6b7e0ab0a86)
+
+## Implementation
+# Login 
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/8582dcf2-83c9-4bbb-bce0-22d7c4b773b7)
+
+# Registration
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/0a3ae592-a766-4d47-877e-e19a85df5fe3)
+
+# Train Ticket Booking
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/80260dd7-39c0-4d55-a862-df15b38f7d0b)
+
+# Train Available
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/d396abaf-7379-4a63-9bdf-5c36d7bfc9ad)
 
 
-# Application Development
 
-• The RaspController application allows you to easily manage your Raspberry Pi remotely. Now it is possible for files, to control the GPIO ports, send commands directly through the terminal, view images from a connected camera and obtain data from different sensors. Finally, wiring diagrams, pins and various information are available for the correct use of the Raspberry Pi.
 
-## RaspController App
-
-<img width="250" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/c2eb6aa1-4f4a-40e7-b695-a99adf4f81cc.PNG"><br/>
-<img width="167" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/13293086-84eb-4753-af86-865f90fd4ae7.PNG">
-<img width="167" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/3077456c-bafa-4f18-8352-0a0bcb218d0e.PNG">
 
 ## Features of the app:
 
