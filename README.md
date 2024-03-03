@@ -24,13 +24,29 @@
 # Analysis:
 
 • Clients:- People who travel through trains.<br/>
-• <img width="575" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/f3e4a827-239c-4f93-a58a-8b7e4e8d7e96"><br/>
-• <img width="476" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbb7974c-cef2-47f6-942f-ef7837c67638">
+• Requirements.<br/>
+ <img width="575" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/f3e4a827-239c-4f93-a58a-8b7e4e8d7e96"><br/>
+ <img width="476" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbb7974c-cef2-47f6-942f-ef7837c67638">
 <br/>
 
 
+# Design
+
+
+## Flowchart
+[image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/a61ae267-2354-4d06-bee1-b3b76c0bb163)
+
+## Use Case Diagram
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/19ada2a9-ce8f-4e00-83a1-36dfee9dfdfc)
+
+## Activity Diagram
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/0ad40000-179c-4553-a24b-07474748b56a)
+
+## Class Diagram
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/629842f7-0b63-40e0-94b6-8ce32755e1a6)
+
 ## Sequence Diagram
-![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/cfd58d6b-478f-4736-95b4-26a8e4417080)
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/82edd9da-ce1b-4d94-b6e5-c088dba4a5a2)
 
 ## List of entities and attributes
 ![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/6463982d-53d1-477e-831c-42d1da31d429)
@@ -38,7 +54,10 @@
 ## ER Model
 ![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/851c4d27-8fcd-49ee-9777-b6b7e0ab0a86)
 
+
+
 # Implementation
+
 
 ## Login 
 ![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/8582dcf2-83c9-4bbb-bce0-22d7c4b773b7)
@@ -60,6 +79,25 @@
 
 ## Result -> Confirmation Email
 ![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/a3ca5a2e-5c0a-49c8-ad41-fc767e1fe8f2)
+
+
+# Testing
+
+## White Box Testing
+
+<img width="445" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/3151b303-76e5-4dde-83bf-ccafc7f69990">
+
+<img width="433" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/7601b852-9a09-4b93-8ab0-6d97143aa86d">
+
+<img width="445" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/374bd5cc-4122-4e11-95c1-9ff4b3683e64">
+
+<img width="449" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/2eebdd97-d6f3-45c0-8303-5fb04dec9f30">
+
+<img width="439" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/ccbf80c6-5ab3-4111-b5df-01c7be5d8162">
+
+<img width="443" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/a15084f2-b97d-4566-b902-34d03007064f">
+
+
 
 # Conclusion
 
