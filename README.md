@@ -1,4 +1,4 @@
-# Train Ticket Booking Management System
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/fd754bd1-068c-477f-968b-7d9bc9371f6e)# Train Ticket Booking Management System
 
 ## Project Description
 • This project is about creating the database about the Train Reservation System.<br/>
@@ -34,7 +34,7 @@
 
 
 ## Flowchart
-[image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/a61ae267-2354-4d06-bee1-b3b76c0bb163)
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbd5e9ef-cd8a-43d8-9ec8-6f7399becbad)
 
 ## Use Case Diagram
 ![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/19ada2a9-ce8f-4e00-83a1-36dfee9dfdfc)
@@ -85,17 +85,21 @@
 
 ## White Box Testing
 
+### Email Confirmation
 <img width="445" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/3151b303-76e5-4dde-83bf-ccafc7f69990">
 
 <img width="433" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/7601b852-9a09-4b93-8ab0-6d97143aa86d">
 
+### Password and Confirm Password
 <img width="445" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/374bd5cc-4122-4e11-95c1-9ff4b3683e64">
 
 <img width="449" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/2eebdd97-d6f3-45c0-8303-5fb04dec9f30">
 
+### Pincode
 <img width="439" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/ccbf80c6-5ab3-4111-b5df-01c7be5d8162">
 
-<img width="443" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/a15084f2-b97d-4566-b902-34d03007064f">
+<img width="430" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/4a34e190-4f9a-48e7-8873-93c7c1882375">
+
 
 
 
