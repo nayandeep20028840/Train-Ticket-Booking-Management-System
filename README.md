@@ -1,4 +1,4 @@
-![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/fd754bd1-068c-477f-968b-7d9bc9371f6e)# Train Ticket Booking Management System
+# Train Ticket Booking Management System
 
 ## Project Description
 • This project is about creating the database about the Train Reservation System.<br/>
@@ -21,13 +21,32 @@
 • We transformed the E-R diagram into a relational database model based on the analytical phase, a user interface was also designed during this phase.<br/>
 • We turned the proposed system's design into computer software, using front-end development like HTML , CSS, JAVASCRIPT , BOOTSTRAP and MySQL for SQL databases (back end), and PHP through VSCODE IDE.<br/>
 
+
+# Specification
+
+## User Specification
+### Registration - (Authentication)
+• User registers with FirstName, LastName, EmailId, PhoneNumber, Password, ConfirmPassword, DateOfBirth, and Pincode.<br/>
+• Before registering and saving a user details in MySql database Email id checked is weather it already exist in database or not.<br/>
+### Login
+• The user login to the Train ticket booking website with his/her correct gmail and password.<br/>
+
+## Module Specification
+### Search Train
+• User enter the detail the date, source and destination with respect to that running trains are shown with tickets available.<br/>
+### Book Ticket
+• If user is logged in and train seats are available then User is shown the option to book the ticket.<br/>
+•	When User enter the other passenger information then data is saved to database also sent to user mail for the confirmation.<br/>
+
+
+
 # Analysis:
 
 • Clients:- People who travel through trains.<br/>
 • Requirements.<br/>
  <img width="575" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/f3e4a827-239c-4f93-a58a-8b7e4e8d7e96"><br/>
- <img width="476" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbb7974c-cef2-47f6-942f-ef7837c67638">
-<br/>
+ 
+ <img width="476" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbb7974c-cef2-47f6-942f-ef7837c67638"><br/>
 
 
 # Design
