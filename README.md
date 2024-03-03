@@ -21,6 +21,14 @@
 • We transformed the E-R diagram into a relational database model based on the analytical phase, a user interface was also designed during this phase.<br/>
 • We turned the proposed system's design into computer software, using front-end development like HTML , CSS, JAVASCRIPT , BOOTSTRAP and MySQL for SQL databases (back end), and PHP through VSCODE IDE.<br/>
 
+# Analysis:
+
+• Clients:- People who travel through trains.<br/>
+• <img width="575" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/f3e4a827-239c-4f93-a58a-8b7e4e8d7e96"><br/>
+• <img width="476" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbb7974c-cef2-47f6-942f-ef7837c67638">
+<br/>
+
+
 ## Sequence Diagram
 ![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/cfd58d6b-478f-4736-95b4-26a8e4417080)
 
