@@ -31,50 +31,50 @@
         </p>
     </div>
 
-   <div class="container">
-    <div class="row justify-content-between align-items-center">
-        <div class="col-lg-6 col-md-5 mb-4 order-lg-1 order-md-1 order-2">
-            <h5 class="mb-3">About Indian Railways</h5>
-            <p>
-                The first railway on Indian sub-continent ran over a stretch of 21 miles from Bombay to Thane. The idea of a railway to connect Bombay with Thane, Kalyan and with the Thal and Bhore Ghats inclines first occurred to Mr. George Clark, the Chief Engineer of the Bombay Government, during a visit to Bhandup in 1843.
-                <br>
-                The formal inauguration ceremony was performed on 16th April 1853, when 14 railway carriages carrying about 400 guests left Bori Bunder at 3.30 pm "amidst the loud applause of a vast multitude and to the salute of 21 guns." The first passenger train steamed out of Howrah station destined for Hooghly, a distance of 24 miles, on 15th August, 1854. Thus the first section of the East Indian Railway was opened to public traffic, inaugurating the beginning of railway transport on the Eastern side of the subcontinent.
-            </p>
-        </div>
-        <div class="col-lg-5 col-md-5 mb-4 order-lg-2 order-md-2 order-1">
-            <img src="images/features/railways-1.png" class="w-100">
+    <div class="container">
+        <div class="row justify-content-between align-items-center">
+            <div class="col-lg-6 col-md-5 mb-4 order-lg-1 order-md-1 order-2">
+                <h5 class="mb-3">About Indian Railways</h5>
+                <p>
+                    The first railway on Indian sub-continent ran over a stretch of 21 miles from Bombay to Thane. The idea of a railway to connect Bombay with Thane, Kalyan and with the Thal and Bhore Ghats inclines first occurred to Mr. George Clark, the Chief Engineer of the Bombay Government, during a visit to Bhandup in 1843.
+                    <br>
+                    The formal inauguration ceremony was performed on 16th April 1853, when 14 railway carriages carrying about 400 guests left Bori Bunder at 3.30 pm "amidst the loud applause of a vast multitude and to the salute of 21 guns." The first passenger train steamed out of Howrah station destined for Hooghly, a distance of 24 miles, on 15th August, 1854. Thus the first section of the East Indian Railway was opened to public traffic, inaugurating the beginning of railway transport on the Eastern side of the subcontinent.
+                </p>
+            </div>
+            <div class="col-lg-5 col-md-5 mb-4 order-lg-2 order-md-2 order-1">
+                <img src="images/features/railways-1.png" class="w-100">
+            </div>
         </div>
     </div>
-   </div>
 
-   <div class="container mt-5">
-    <div class="row">
-        <div class="col-lg-3 col-md-6 mb-4 px-4">
-            <div class="ng-white rounded shadow px-4 border-4 text-center box">
-                <img src="images/features/locomotive.png" width="70px">
-                <h4 class="mt-3">7566+ Locomotives</h4>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 mb-4 px-4">
+                <div class="ng-white rounded shadow px-4 border-4 text-center box">
+                    <img src="images/features/locomotive.png" width="70px">
+                    <h4 class="mt-3">7566+ Locomotives</h4>
+                </div>
             </div>
-        </div>
-        <div class="col-lg-3 col-md-6 mb-4 px-4">
-            <div class="ng-white rounded shadow px-4 border-4 text-center box">
-                <img src="images/features/train.png" width="70px">
-                <h4 class="mt-3">11,000+ trains everyday</h4>
+            <div class="col-lg-3 col-md-6 mb-4 px-4">
+                <div class="ng-white rounded shadow px-4 border-4 text-center box">
+                    <img src="images/features/train.png" width="70px">
+                    <h4 class="mt-3">11,000+ trains everyday</h4>
+                </div>
             </div>
-        </div>
-        <div class="col-lg-3 col-md-6 mb-4 px-4">
-            <div class="ng-white rounded shadow px-4 border-4 text-center box">
-                <img src="images/features/train-station.png" width="70px">
-                <h4 class="mt-3">6853+ Stations</h4>
+            <div class="col-lg-3 col-md-6 mb-4 px-4">
+                <div class="ng-white rounded shadow px-4 border-4 text-center box">
+                    <img src="images/features/train-station.png" width="70px">
+                    <h4 class="mt-3">6853+ Stations</h4>
+                </div>
             </div>
-        </div>
-        <div class="col-lg-3 col-md-6 mb-4 px-4">
-            <div class="ng-white rounded shadow px-4 border-4 text-center box">
-                <img src="images/features/workforce.png" width="70px">
-                <h4 class="mt-3">1.54 million-Work Force</h4>
+            <div class="col-lg-3 col-md-6 mb-4 px-4">
+                <div class="ng-white rounded shadow px-4 border-4 text-center box">
+                    <img src="images/features/workforce.png" width="70px">
+                    <h4 class="mt-3">1.54 million-Work Force</h4>
+                </div>
             </div>
         </div>
     </div>
-   </div>
     <!-- used to include footer file -->
     <?php require('footer.php'); ?>
 

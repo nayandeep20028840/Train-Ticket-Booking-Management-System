@@ -1,30 +1,27 @@
-
 <?php
-    require('connection.php');
-    session_start();
+require('connection.php');
+session_start();
 ?>
 
 <style>
-    div.userr{
-    color: black;
-    background-color: skyblue;
-    padding: 5px 15px;
-    border-radius: 5px;
-    font-weight: 500;
+    div.userr {
+        color: black;
+        background-color: skyblue;
+        padding: 5px 15px;
+        border-radius: 5px;
+        font-weight: 500;
 
-}
+    }
 
-div.userr a{
-    color:red;
-}
+    div.userr a {
+        color: red;
+    }
 </style>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-white px-lg-3 py-lg-2 shadow-sm sticky-top">
     <div class="container-fluid">
         <a class="navbar-brand me-5 fw-bold fs-3 h-font" href="index.php">INDIAN RAILWAYS</a>
-        <button class="navbar-toggler shadow-none" type="button" data-bs-toggle="collapse"
-            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-            aria-label="Toggle navigation">
+        <button class="navbar-toggler shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -43,15 +40,14 @@ div.userr a{
                 </li>
             </ul>
             <?php
-                if(isset($_SESSION['logged_in']) && $_SESSION['logged_in']==true){
-                    echo"
+            if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == true) {
+                echo "
                     <div class='userr'>
                     $_SESSION[username] - <a href='logout.php'>LOGOUT</a>
                     </div>
                     ";
-                }
-                else{
-                    echo"
+            } else {
+                echo "
                     <div class='d-flex'>
                 <button type='button' class='btn btn-outline-dark shadow-none me-lg-2 me-2' data-bs-toggle='modal'
                     data-bs-target='#loginModal'>
@@ -63,17 +59,16 @@ div.userr a{
                 </button>
                 </div>
                     ";
-                }
+            }
             ?>
-            
+
         </div>
     </div>
 </nav>
 
 
 <!--login Modal -->
-<div class="modal fade" id="loginModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-    aria-labelledby="staticBackdropLabel" aria-hidden="true">
+<div class="modal fade" id="loginModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <form action="login_register.php" method="post">
@@ -83,8 +78,7 @@ div.userr a{
                         <i class="bi bi-person-circle fs-3 me-2"></i>
                         User Login
                     </h5>
-                    <button type="reset" class="btn-close shadow-none" data-bs-dismiss="modal"
-                        aria-label="Close"></button>
+                    <button type="reset" class="btn-close shadow-none" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
                     <div class="mb-3">
@@ -93,10 +87,10 @@ div.userr a{
                     </div>
                     <div class="mb-4">
                         <label class="form-label">Password</label>
-                        <input type="password" class="form-control shadow-none" name = "passwordd">
+                        <input type="password" class="form-control shadow-none" name="passwordd">
                     </div>
                     <div class="d-flex align-items-center justify-content-between mb-2">
-                        <button type="submit" class="btn btn-dark shadow-none" name = "login">
+                        <button type="submit" class="btn btn-dark shadow-none" name="login">
                             LOGIN
                         </button>
                         <!-- <a href="javascript: void(0)" class="text-secondary text-decoration-none"> Forget Password</a> -->
@@ -108,8 +102,7 @@ div.userr a{
 </div>
 
 <!-- Register Modal --><!--large modal--->
-<div class="modal fade" id="registerModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-    aria-labelledby="staticBackdropLabel" aria-hidden="true">
+<div class="modal fade" id="registerModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <form action="login_register.php" method="post">
@@ -119,8 +112,7 @@ div.userr a{
                         <i class="bi bi-person-bounding-box fs-3 me-2"></i>
                         User Registration
                     </h5>
-                    <button type="reset" class="btn-close shadow-none" data-bs-dismiss="modal"
-                        aria-label="Close"></button>
+                    <button type="reset" class="btn-close shadow-none" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
                     <!-- used badge(bootstrap) -->
@@ -164,7 +156,7 @@ div.userr a{
                         </div>
                     </div>
                     <div class="text-center my-1">
-                        <button type="submit" class="btn btn-dark shadow-none" name = "register">
+                        <button type="submit" class="btn btn-dark shadow-none" name="register">
                             REGISTER
                         </button>
                     </div>
@@ -177,8 +169,7 @@ div.userr a{
     <input type="email" class="form-control shadow-none">
     </div>
     <div class="d-flex align-items-center justify-content-between mb-2">
-        <button type="submit" class="btn btn-dark shadow-none">
-          LOGIN  
+        <button type="submit" class="btn btn-dark shadow-none">LOGIN  
         </button>
         <a href="javascript: void(0)" class="text-secondary text-decoration-none"> Forget Password</a>
     </div> -->

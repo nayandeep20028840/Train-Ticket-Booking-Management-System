@@ -456,10 +456,9 @@
                 alert("One of the required fields is Empty");
                 return;
             }
-            if(from === to)
-            {
-                alert("Source and destination cannot be same") ;
-                return ;
+            if (from === to) {
+                alert("Source and destination cannot be same");
+                return;
             }
 
             let dayOfWeek = getDayFromDate(date);
@@ -476,12 +475,6 @@
 
         });
     </script>
-
-
-
-
-
-
 
 </body>
 
