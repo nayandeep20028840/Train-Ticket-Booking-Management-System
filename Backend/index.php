@@ -76,14 +76,6 @@
                                 <option value="2">Varanasi</option>
                             </select>
                         </div>
-                        <!-- <div class="col-lg-2 mb-3">
-               <label  class="form-label" style="font-weight: 500"></label>
-               <select class="form-select" aria-label="Default select example">
-                    <option selected>All Classes</option>
-                    <option value="1">AC</option>
-                    <option value="2">Sleeper</option>
-                </select>
-                </div>  -->
                         <div class="col-lg-2 mb-lg-3 mt-2">
                             <!-- <a href="rooms.php"> -->
                             <button type="submit" class="btn text-white shadow-none custom-bg search">Search Train</button>
@@ -117,21 +109,18 @@
                         if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == true) {
                             if ($avticket > 0) {
                                 echo "Aviliable ticket : $avticket <br><br>
-                            <button type='button' class='btn btn-outline-dark shadow-none' data-bs-toggle='modal'
-                        data-bs-target='#passengeregs'>
-                        Book Ticket
-                        </button>
-                         ";
+                                    <button type='button' class='btn btn-outline-dark shadow-none' data-bs-toggle='modal'
+                                        data-bs-target='#passengeregs'>
+                                        Book Ticket
+                                    </button>
+                            ";
                             } else {
                                 echo "Ticket Not aviliable";
                             }
                         } else {
                             echo "Login to Book Ticket";
                         }
-
-
                         ?>
-
                     </div>
                 </div>
             </div>
@@ -152,11 +141,11 @@
                         if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == true) {
                             if ($avticket > 0) {
                                 echo "Aviliable ticket : $avticket <br><br>
-                            <button type='button' class='btn btn-outline-dark shadow-none' data-bs-toggle='modal'
-                        data-bs-target='#passengereg'>
-                        Book Ticket
-                        </button>
-                         ";
+                                    <button type='button' class='btn btn-outline-dark shadow-none' data-bs-toggle='modal'
+                                        data-bs-target='#passengereg'>
+                                        Book Ticket
+                                    </button>
+                                ";
                             } else {
                                 echo "Ticket Not aviliable";
                             }
@@ -168,18 +157,6 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="col-lg-4 col-md-6 my-3">
-        <div class="card border-0 shadow" style="max-width:350px; margin: center;">
-        <img src="images/35.jpg" class="card-img-top">
-        <div class="card-body">
-        <h5 class="mb-3">Gondia BJU Exp</h5>
-        <h6 class="mb-1">Schedule:</h6>
-        <h6 class="mb-2">21:25 Gondia -- 35h:15m -- 08:30 BJU </h6>
-        <h6 class="mb-4">10:05 BJU --- 31h:15m --- 17:40 Gondia</h6>
-        <a href="#" class="btn btn-primary">Book Ticket</a>
-        </div>
-        </div>
-       </div>  -->
             <div class="col-lg-12 text-center mt-5">
                 <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Trains >>></a>
             </div>
@@ -242,20 +219,6 @@
                                 Book ticket
                             </button>
                         </div>
-                        <!-- <div class="mb-3">
-    <label  class="form-label">Email address</label>
-    <input type="email" class="form-control shadow-none">
-    </div>
-    <div class="mb-4">
-    <label  class="form-label">Password</label>
-    <input type="email" class="form-control shadow-none">
-    </div>
-    <div class="d-flex align-items-center justify-content-between mb-2">
-        <button type="submit" class="btn btn-dark shadow-none">
-          LOGIN  
-        </button>
-        <a href="javascript: void(0)" class="text-secondary text-decoration-none"> Forget Password</a>
-    </div> -->
                     </div>
                 </form>
             </div>
@@ -320,30 +283,11 @@
                                 Book ticket
                             </button>
                         </div>
-                        <!-- <div class="mb-3">
-    <label  class="form-label">Email address</label>
-    <input type="email" class="form-control shadow-none">
-    </div>
-    <div class="mb-4">
-    <label  class="form-label">Password</label>
-    <input type="email" class="form-control shadow-none">
-    </div>
-    <div class="d-flex align-items-center justify-content-between mb-2">
-        <button type="submit" class="btn btn-dark shadow-none">
-          LOGIN  
-        </button>
-        <a href="javascript: void(0)" class="text-secondary text-decoration-none"> Forget Password</a>
-    </div> -->
                     </div>
                 </form>
             </div>
         </div>
     </div>
-
-
-
-
-
 
     <!-- our Facilities -->
     <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">OUR FACILITIES</h2>
@@ -397,7 +341,6 @@
             },
         });
 
-
         const btn = document.querySelector('.search');
         const a1 = document.querySelector('.train_one');
         const a2 = document.querySelector('.train_one_img');
@@ -405,14 +348,11 @@
         const b2 = document.querySelector('.train_two_img');
         const c = document.getElementById('tr-head');
 
-
-
         a1.style.display = 'none';
         a2.style.display = 'none';
         b1.style.display = 'none';
         b2.style.display = 'none';
         c.innerHTML = 'Available Trains';
-
 
         function getDayFromDate(dateString) {
             const date = new Date(dateString);
@@ -472,7 +412,6 @@
                 document.getElementById('src').value = document.querySelector('.From')[from].textContent;
                 document.getElementById('dat').value = date;
             }
-
         });
     </script>
 

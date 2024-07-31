@@ -24,7 +24,6 @@
             z-index: 2;
             position: relative;
         }
-
         /* for mobile screen */
         @media screen and (max-width:575px) {
             .availability-form {
@@ -75,7 +74,6 @@
         </div>
     </nav>
 
-
     <!--login Modal -->
     <div class="modal fade" id="loginModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
         aria-labelledby="staticBackdropLabel" aria-hidden="true">
@@ -112,7 +110,6 @@
             </div>
         </div>
     </div>
-
 
     <!-- Register Modal --><!--large modal--->
     <div class="modal fade" id="registerModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
@@ -175,20 +172,6 @@
                                 REGISTER
                             </button>
                         </div>
-                        <!-- <div class="mb-3">
-                            <label  class="form-label">Email address</label>
-                            <input type="email" class="form-control shadow-none">
-                        </div>
-                        <div class="mb-4">
-                            <label  class="form-label">Password</label>
-                            <input type="email" class="form-control shadow-none">
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between mb-2">
-                            <button type="submit" class="btn btn-dark shadow-none">
-                                LOGIN  
-                            </button>
-                            <a href="javascript: void(0)" class="text-secondary text-decoration-none"> Forget Password</a>
-                        </div> -->
                     </div>
                 </form>
             </div>
@@ -201,10 +184,13 @@
             <div class="swiper-wrapper">
                 <!-- <div class="swiper-slide"> -->
                 <div class="swiper-slide">
-                    <img src="images/carousel/42.jpg" class="w-100 d-block">
+                    <img src="images/carousel/3.jpg" class="w-100 d-block">
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/carousel/43.jpg" class="w-100 d-block">
+                    <img src="images/carousel/2.jpg" class="w-100 d-block">
+                </div>
+                <div class="swiper-slide">
+                    <img src="images/carousel/1.jpg" class="w-100 d-block">
                 </div>
             </div>
         </div>
@@ -249,8 +235,12 @@
                             <label class="form-label" style="font-weight: 500"></label>
                             <select class="form-select" aria-label="Default select example">
                                 <option selected>All Classes</option>
-                                <option value="1">AC</option>
-                                <option value="2">Sleeper</option>
+                                <option value="1" disabled>First Class AC (1A)</option>
+                                <option value="3" disabled>AC Two Tier (2A)</option>
+                                <option value="3">AC Three Tier (3A)</option>
+                                <option value="4">Sleeper Class (SL)</option>
+                                <option value="5" disabled>Executive Class (EC)</option>
+                                <option value="6" disabled>General Unreserved (UR)</option>
                             </select>
                         </div>
                         <div class="col-lg-1 mb-lg-3 mt-2">
@@ -270,9 +260,9 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 my-3">
                 <div class="card border-0 shadow" style="max-width:350px; margin: auto;">
-                    <img src="images/7.jpg" class="card-img-top">
+                    <img src="images/sarnath-express.jpg" class="card-img-top">
                     <div class="card-body">
-                        <h5 class="mb-3">Sarnath Express</h5>
+                        <h5 class="mb-3">Sarnath Express (15159/15160)</h5>
                         <h6 class="mb-1">Schedule:</h6>
                         <h6 class="mb-2">20:25 DURG --- 25h:10m --- 21:35 CPR </h6>
                         <h6 class="mb-4">07:10 CPR --- 23h:55m --- 07:05 Durg</h6>
@@ -282,9 +272,9 @@
             </div>
             <div class="col-lg-4 col-md-6 my-3">
                 <div class="card border-0 shadow" style="max-width:350px; margin: auto;">
-                    <img src="images/8.jpg" class="card-img-top">
+                    <img src="images/durg-nautanwa-express.jpg" class="card-img-top">
                     <div class="card-body">
-                        <h5 class="mb-3">Durg Ntv Exp</h5>
+                        <h5 class="mb-3">Durg - Nautanwa Express (18201/18202)</h5>
                         <h6 class="mb-1">Schedule:</h6>
                         <h6 class="mb-2">19:40 DURG --- 26h:50m --- 22:30 NTV</h6>
                         <h6 class="mb-4">11:15 NTV --- 27h:05m --- 14:20 DURG</h6>
@@ -294,9 +284,9 @@
             </div>
             <div class="col-lg-4 col-md-6 my-3">
                 <div class="card border-0 shadow" style="max-width:350px; margin: auto;">
-                    <img src="images/35.jpg" class="card-img-top">
+                    <img src="images/gondia-barauni-express.jpg" class="card-img-top">
                     <div class="card-body">
-                        <h5 class="mb-3">Gondia BJU Exp</h5>
+                        <h5 class="mb-3">Gondia - Barauni Express (15232/15231)</h5>
                         <h6 class="mb-1">Schedule:</h6>
                         <h6 class="mb-2">21:25 Gondia -- 35h:15m -- 08:30 BJU </h6>
                         <h6 class="mb-4">10:05 BJU --- 31h:15m --- 17:40 Gondia</h6>
@@ -304,15 +294,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-12 text-center mt-5">
-                <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Trains >>></a>
-            </div>
         </div>
     </div>
 
     <!-- our Facilities -->
     <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">OUR FACILITIES</h2>
-
 
     <div class="container">
         <div class="row justify-content-evenly px-lg-0 px-md-0 px-5">
@@ -336,21 +322,17 @@
                 <img src="images/features/105.png" width="80px">
                 <h5 class="mt-3">Travel & Tourism</h5>
             </div>
-            <div class="col-lg-12 text-center mt-5">
-                <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Facilities >>></a>
-            </div>
         </div>
     </div>
-
-
 
     <div class="container-fluid bg-white mt-5">
         <div class="row">
             <div class="col-lg-4">
                 <h3 class="h-font fw-bold fs-3 mb-2">Railways</h3>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Doloremque, voluptas?
+                    Indian Railways, operated by the Ministry of Railways, is the national railway system of India. It
+                    is one of the largest and busiest rail networks in the world, with over 68,000 kilometers of track
+                    and approximately 7,000 stations. Here's an overview of its various aspects:
                 </p>
             </div>
             <div class="col-lg-4">
@@ -362,22 +344,20 @@
             </div>
             <div class="col-lg-4">
                 <h5 class="mb-3">Follow Us</h5>
-                <a href="#" class="d-inline-block text-dark text-decoration-none mb-2">
+                <a href="https://x.com/indianrailway__" class="d-inline-block text-dark text-decoration-none mb-2">
                     <i class="bi bi-twitter me-1">Twitter</i>
                 </a><br>
-                <a href="#" class="d-inline-block text-dark text-decoration-none mb-2">
+                <a href="https://www.facebook.com/RailMinIndia/"
+                    class="d-inline-block text-dark text-decoration-none mb-2">
                     <i class="bi bi-facebook me-1">Facebook</i>
                 </a><br>
-                <a href="#" class="d-inline-block text-dark text-decoration-none mb-2">
+                <a href="https://www.instagram.com/railminindia"
+                    class="d-inline-block text-dark text-decoration-none mb-2">
                     <i class="bi bi-instagram me-1">Instagram</i>
-                </a><br>
-                <a href="#" class="d-inline-block text-dark text-decoration-none mb-2">
-                    <i class="bi bi-twitch me-1">Twitch</i>
                 </a><br>
             </div>
         </div>
     </div>
-
 
     <br><br><br>
     <br><br><br>
@@ -385,8 +365,6 @@
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
-
-
 
     <!-- to initialise swiper -->
     <script>

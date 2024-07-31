@@ -16,22 +16,22 @@ if (isset($_POST['login'])) {
                 header("location: index.php");
             } else {
                 echo "<script>
-            alert('Incorrect password');
-            window.location.href='index.php';
-            </script>
-            ";
+                        alert('Incorrect password');
+                        window.location.href='index.php';
+                    </script>
+                    ";
             }
         } else {
             echo "<script>
-            alert('Email or Username not registered');
-            window.location.href='index.php';
+                alert('Email or Username not registered');
+                window.location.href='index.php';
             </script>
             ";
         }
     } else {
         echo "<script>
-            alert('cannot run query');
-            window.location.href='index.php';
+                alert('cannot run query');
+                window.location.href='index.php';
             </script>
             ";
     }
