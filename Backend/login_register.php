@@ -178,7 +178,6 @@ if (isset($_POST['passg'])) {
     }
 }
 
-
 #registertion of passangers for ticket sarnath
 if (isset($_POST['passgs'])) {
     if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == true) {
