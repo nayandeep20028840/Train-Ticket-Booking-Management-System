@@ -9,7 +9,7 @@
 
 # List of Assumptions:
 •  Since the reservation system is very large in reality, it is not feasible to develop the project to that extent and prepare documentation at that level. Therefore, a small sample case study has been created to demonstrate the working of the reservation system. To implement this sample case study, some assumptions have been made , which are as follows:<br/>
-1. The number of trains has been restricted to 4.<br/>
+1. The number of trains has been restricted to 3.<br/>
 2. The total number of tickets can be booked in each train is 60.<br/>
 3. There is no weightage for old or handicapped or women to avoid the complexity.<br/>
 4. The waiting list and rac feature is not added in ticket booking system.<br/>
