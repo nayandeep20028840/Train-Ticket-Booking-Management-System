@@ -46,32 +46,33 @@
 • Requirements.<br/>
  <img width="575" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/f3e4a827-239c-4f93-a58a-8b7e4e8d7e96"><br/>
  
- <img width="575" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbb7974c-cef2-47f6-942f-ef7837c67638"><br/>
+ <img width="450" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbb7974c-cef2-47f6-942f-ef7837c67638"><br/>
 
 
 # Design
 
 
 ## Flowchart
-<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbd5e9ef-cd8a-43d8-9ec8-6f7399becbad" alt="Train Ticket Booking System" width="500">
+<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbd5e9ef-cd8a-43d8-9ec8-6f7399becbad" alt="Train Ticket Booking System" width="500" height="300">
 
 ## Use Case Diagram
-![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/19ada2a9-ce8f-4e00-83a1-36dfee9dfdfc)
+<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/19ada2a9-ce8f-4e00-83a1-36dfee9dfdfc" alt="Use Case Diagram" width="500" height="300">
 
 ## Activity Diagram
-![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/0ad40000-179c-4553-a24b-07474748b56a)
+<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/0ad40000-179c-4553-a24b-07474748b56a" alt="Activity Diagram" width="500" height="300">
 
 ## Class Diagram
-![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/629842f7-0b63-40e0-94b6-8ce32755e1a6)
+<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/629842f7-0b63-40e0-94b6-8ce32755e1a6" alt="Class Diagram" width="500" height="300">
 
 ## Sequence Diagram
-![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/82edd9da-ce1b-4d94-b6e5-c088dba4a5a2)
+<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/82edd9da-ce1b-4d94-b6e5-c088dba4a5a2" alt="Sequence Diagram" width="500" height="300">
 
 ## List of entities and attributes
-![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/6463982d-53d1-477e-831c-42d1da31d429)
+<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/6463982d-53d1-477e-831c-42d1da31d429" alt="Entities and Attributes" width="500" height="300">
 
 ## ER Model
-![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/851c4d27-8fcd-49ee-9777-b6b7e0ab0a86)
+<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/851c4d27-8fcd-49ee-9777-b6b7e0ab0a86" alt="ER Model" width="500" height="300">
+
 
 
 
