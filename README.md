@@ -53,7 +53,7 @@
 
 
 ## Flowchart
-<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbd5e9ef-cd8a-43d8-9ec8-6f7399becbad" alt="Train Ticket Booking System" width="500" height="300">
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbd5e9ef-cd8a-43d8-9ec8-6f7399becbad)
 
 ## Use Case Diagram
 <img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/19ada2a9-ce8f-4e00-83a1-36dfee9dfdfc" alt="Use Case Diagram" width="500" height="300">
@@ -71,7 +71,7 @@
 <img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/6463982d-53d1-477e-831c-42d1da31d429" alt="Entities and Attributes" width="500" height="300">
 
 ## ER Model
-<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/851c4d27-8fcd-49ee-9777-b6b7e0ab0a86" alt="ER Model" width="500" height="300">
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/851c4d27-8fcd-49ee-9777-b6b7e0ab0a86)
 
 
 
