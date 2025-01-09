@@ -1,11 +1,11 @@
 # Train Ticket Booking Management System
 
 ## Project Description
-• This project is about creating the database about the Train Reservation System.<br/>
-• The train reservation system facilitates the passengers to enquire about the trains available on the basis of source and destination , booking of tickets , enquire about the status of the booked ticket, etc.<br/>
-• The aim of this project is to design and develop a database maintaining the records of different trains and passengers. The record of train includes its name, source, destination, timing , seat availability and seat booked.<br/>
-• Passengers can book their tickets for the train in which seats are available. For this, passengers have to provide the date for which ticket is to be booked , source and destination station. Before booking a ticket for a passenger, the train availability and booking date is checked. <br/>
-• Once the train availability and booking date are validated , it is checked whether the seat is available. If yes, the ticket is booked with the confirm status.<br/>
+• Designed and developed a comprehensive database for a train reservation system, enabling efficient management of train and passenger records.<br/>
+• Implemented features allowing passengers to search for trains based on source and destination, book tickets, and check booking status.<br/>
+• Maintained detailed train records, including name, source, destination, timings, seat availability, and bookings.<br/>
+• Built logic to validate train availability, booking dates, and seat availability before confirming ticket reservations.<br/>
+• Facilitated seamless ticket booking with automated status updates for confirmed reservations.<br/>
 
 # List of Assumptions:
 •  Since the reservation system is very large in reality, it is not feasible to develop the project to that extent and prepare documentation at that level. Therefore, a small sample case study has been created to demonstrate the working of the reservation system. To implement this sample case study, some assumptions have been made , which are as follows:<br/>
@@ -108,17 +108,17 @@
 ### Email Confirmation
 <img width="445" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/3151b303-76e5-4dde-83bf-ccafc7f69990">
 
-<img width="433" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/7601b852-9a09-4b93-8ab0-6d97143aa86d">
+<img width="445" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/7601b852-9a09-4b93-8ab0-6d97143aa86d">
 
 ### Password and Confirm Password
 <img width="445" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/374bd5cc-4122-4e11-95c1-9ff4b3683e64">
 
-<img width="449" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/2eebdd97-d6f3-45c0-8303-5fb04dec9f30">
+<img width="445" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/2eebdd97-d6f3-45c0-8303-5fb04dec9f30">
 
 ### Pincode
 <img width="439" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/ccbf80c6-5ab3-4111-b5df-01c7be5d8162">
 
-<img width="430" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/4a34e190-4f9a-48e7-8873-93c7c1882375">
+<img width="439" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/4a34e190-4f9a-48e7-8873-93c7c1882375">
 
 
 
