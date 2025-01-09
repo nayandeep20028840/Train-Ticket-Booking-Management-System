@@ -46,14 +46,14 @@
 • Requirements.<br/>
  <img width="575" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/f3e4a827-239c-4f93-a58a-8b7e4e8d7e96"><br/>
  
- <img width="476" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbb7974c-cef2-47f6-942f-ef7837c67638"><br/>
+ <img width="575" alt="image" src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbb7974c-cef2-47f6-942f-ef7837c67638"><br/>
 
 
 # Design
 
 
 ## Flowchart
-![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbd5e9ef-cd8a-43d8-9ec8-6f7399becbad)
+<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/dbd5e9ef-cd8a-43d8-9ec8-6f7399becbad" alt="Train Ticket Booking System" width="500">
 
 ## Use Case Diagram
 ![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/19ada2a9-ce8f-4e00-83a1-36dfee9dfdfc)
