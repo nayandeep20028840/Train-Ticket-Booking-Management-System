@@ -59,7 +59,7 @@
 <img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/19ada2a9-ce8f-4e00-83a1-36dfee9dfdfc" alt="Use Case Diagram" width="500" height="300">
 
 ## Activity Diagram
-<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/0ad40000-179c-4553-a24b-07474748b56a" alt="Activity Diagram" width="500" height="300">
+![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/0ad40000-179c-4553-a24b-07474748b56a)
 
 ## Class Diagram
 <img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/629842f7-0b63-40e0-94b6-8ce32755e1a6" alt="Class Diagram" width="500" height="300">
@@ -68,7 +68,7 @@
 <img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/82edd9da-ce1b-4d94-b6e5-c088dba4a5a2" alt="Sequence Diagram" width="500" height="300">
 
 ## List of entities and attributes
-<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/6463982d-53d1-477e-831c-42d1da31d429" alt="Entities and Attributes" width="500" height="300">
+<img src="https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/6463982d-53d1-477e-831c-42d1da31d429" alt="Entities and Attributes" width="300" height="200">
 
 ## ER Model
 ![image](https://github.com/nayandeep20028840/Train-Ticket-Booking-Management-System/assets/97220336/851c4d27-8fcd-49ee-9777-b6b7e0ab0a86)
